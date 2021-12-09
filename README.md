@@ -26,7 +26,7 @@ Here are some of custom firefox ccs for minimalist people :)
 | 6  | [Cascade](https://github.com/andreasgrafen/cascade)                                           | ![Cascade](https://github.com/andreasgrafen/cascade/raw/main/assets/preview.png)                                             |
 | 7  | [Oneliner Deluxe](https://github.com/Doosty/Oneliner-Deluxe)                                  | ![Oneliner Deluxe](https://github.com/Doosty/Oneliner-Deluxe/raw/master/preview/pic3.png)                                    |
 | 8  | [Firefox_Custom_CSS](https://github.com/hakan-demirli/Firefox_Custom_CSS)                     | ![Firefox_Custom_CSS](https://raw.githubusercontent.com/hakan-demirli/Firefox_Custom_CSS/main/pics/overall.png)              |
-| 9  | [Waterfall](https://github.com/crambaud/waterfall)                                            | ![Waterfall](https://github.com/crambaud/waterfall/raw/main/assets/preview.png)                                              |
+| 9  | [Waterfall](https://github.com/crambaud/waterfall) - [**(My custom colors)**](https://github.com/mrbooshehri/.dotfiles/tree/master/firefox-custom-css)                                            | ![Waterfall](https://github.com/crambaud/waterfall/raw/main/assets/preview.png)                                              |
 | 10 | [KeyFox](https://github.com/alfarexguy2019/KeyFox)                                            | ![KeyFox](https://user-images.githubusercontent.com/78948152/136501706-accca691-b9c3-4841-acd7-6bb843d2f422.png)             |
 
 
